@@ -1,6 +1,6 @@
 # Formulário de Matrícula - Estrelas do Amanhã
 
-O Formulário de Matrícula é um projeto desenvolvido para a escola fictícia "Estrelas do Amanhã". O objetivo deste formulário é permitir que os responsáveis inscrevam seus filhos na escola, fornecendo informações essenciais como dados da criança, endereço residencial, informações do responsável, entre outros.
+O Formulário de Matrícula é um projeto desenvolvido para a escola fictícia "Estrelas do Amanhã". O objetivo deste formulário é permitir que os responsáveis matriculem seus filhos na escola, fornecendo informações essenciais como dados da criança, endereço residencial, informações do responsável, entre outros.
 
 <img src="/assets/images/image-1.png" width="650px" height="auto">
 
